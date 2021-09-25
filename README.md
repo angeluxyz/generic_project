@@ -1,2 +1,8 @@
 # generic_project
-Generic repo to create easy games
+Use this canvas to create cool games
+
+This is just a regular JFrame that contains a canvas
+
+# Suggestions
+- .
+
